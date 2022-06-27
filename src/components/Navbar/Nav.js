@@ -3,6 +3,8 @@ import './Nav.css';
 import fb from './images/fb.png'; 
 import tw from './images/tw.png'; 
 import ig from './images/ig.png';
+import TITTA from './images/TITTA.png';
+
 import brandocLogo from '../../images/brandocwhite.png';
 
 function Nav() {
@@ -55,7 +57,12 @@ function Nav() {
                         <a href=""><img src={tw} alt="TW"/></a>
                         <a href=""><img src={ig} alt="IG"/></a>
                     </div>
-                    <p>2021, Made by T.I.T.A</p>
+                    <div className="owned">
+                        <p>Designed By</p>
+                        <img src={TITTA} alt="titta logo" width="80px" className="titta"/>
+                    </div>
+                    
+                    
                     </footer>
                 </div>
 

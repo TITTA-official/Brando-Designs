@@ -157,10 +157,17 @@
 
 .header .sidemenu footer .social {
   display: flex;
-  align-items: center;
+  align-items: right;
   margin-bottom: 12px;
 }
 
+.owned{
+  padding-top:70px;
+  font-size: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
 .header .sidemenu footer .social a {
   display: flex;
   align-items: center;

@@ -5,6 +5,9 @@
 .hero-text {
   font-family: "Poppins", sans-serif;
 }
+.fa-phone, .fa-envelope{
+ margin-right:10px;
+}
 
 .title {
   background-color: #ed1c24;

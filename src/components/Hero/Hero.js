@@ -10,9 +10,9 @@ function Hero() {
                     <div className="col-md-6">
                         <div className="hero-text">
                             <span className="title">Welcome to</span><br />
-                            <span className="name">BRANDOC</span> <br />
-                            <span className="designation">Bringing your imagination to life</span> <br />
-                            <span className="email"><i className="fa fa-envelope"></i>brandoc@gmail.com</span>
+                            <span className="name">BRANDO</span> <br />
+                            <span className="designation">Breathing life to your brand</span> <br />
+                            <span className="email"><i className="fa fa-envelope"></i>brando@gmail.com</span>
                             <br />
                             <span className="phone"><i className="fa fa-phone"></i>08051131861</span>
                             <div className="social-icons d-flex">
